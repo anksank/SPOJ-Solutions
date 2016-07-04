@@ -22,7 +22,7 @@ int main()
             sum+=x;
         }
         t=y;
-        cout <<sum<<"\n";
+        cout<<sum<<"\n";
     }
     return 0;
 }
